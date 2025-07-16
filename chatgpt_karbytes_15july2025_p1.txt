@@ -8,7 +8,7 @@
 
 The following is a plain-text transcript of a conversation between karbytes and ChatGPT-4o which took place between 11:59PM Pacific Standard Time on 14_JULY_2025 and 11:59PM Pacific Standard Time on 16_JULY_2025. The conversation pertains to the issue of the JULIA_SET_FRACTAL_ANIMATION web application which karbytes recently added to its SOFTWARE_ENGINEERING_PORTFOLIO causing the region which is being zoomed into to eventually become pixelated instead of continuing to exhibit relatively high-resolution details of the zoomed into region of the fractal image. ChatGPT explains why that is and proposes some workarounds but, after applying those workarounds (in the JavaScript application), karbytes decided that it would be best to create a C++ version of that application which enables zooming into fractals without loss of detail and for indefinitely deep fractal zooms. The end of this conversation transcript shows some instructions and hints for how to make a video recording of the C++ animation app using a tool named OBS (i.e. Open Broadcaster Software) on karbytes' Linux machine.
 
-(Note that this conversation transcript is abridged to only include what karbytes thinks is relevant for karbytes' purposes. Otherwise, this transcript would include too much relatively useless code snippets).
+(Note that this conversation transcript is abridged to only include what karbytes thinks is relevant for karbytes' purposes. Otherwise, this transcript would include too many relatively useless code snippets).
 
 (To see all of karbytes' showcase-worthy software applications (along with documentation on how to install and use those applications), visit the following web page: https://karbytesforlifeblog.wordpress.com/software_engineering_portfolio/).
 

@@ -1,7 +1,17 @@
-// chatgpt_karbytes_16july2025_p0.txt
+/**
+ * file: chatgpt_karbytes_16july2025_p0.txt
+ * type: plain-text
+ * date: 17_JULY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-4o which took place between 11:59PM Pacific Standard Time on 15_JULY_2025 and 11:59PM Pacific Standard Time on 16_JULY_2025. The conversation is an excerpt from a longer conversation which karbytes had with ChatGPT-4o (first in Advanced Voice Mode and then, when the Advance Voice Mode daily quota was depleted, in Standard Voice Mode) while going to the grocery store and driving back to karbytes' house to put karbytes' backup debit card back in its special storage container in karbytes' closet.
 
-You said:
+* * *
+
+karbytes:
+
 I don't know how people at those actual warehouses starting off as package handlers seriously make actual money to survive when they're doing those seasonal roles. It seems like they all have to be dependent on someone else, because they're only making about maybe $19 an hour, and shifts are usually no more than three hours at a time, even though they're advertised as being four. So sometimes they only get one or two shifts per week. That's not enough to live on.
 
 

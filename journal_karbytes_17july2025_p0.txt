@@ -26,4 +26,4 @@ karbytes_1: "Yes. I imagine that point is either pure nothingness (necessarily a
 
 karbytes_0: "What is a noumenon? What is a phenomenon?"
 
-karbytes_1: "For (relatively) complete and pre-recorded answers to your quesion, visit the following web page: https://karlinaobject.wordpress.com/nature/"
+karbytes_1: "For a (relatively) complete and pre-recorded answer to your quesion, visit the following web page: https://karlinaobject.wordpress.com/nature/"

@@ -1,0 +1,29 @@
+/**
+ * file: journal_karbytes_17july2025_p0.txt
+ * type: plain-text
+ * date: 17_JULY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes_0: "Is mathematics a subset of culture?"
+
+karbytes_1: "In some ways, yes, but if you want the short answer from me it's no."
+
+karbytes_0: "Is mathetmatics a part of culture?"
+
+karbytes_1: "It is given that it uses and perhaps solely consists of pure logic, but mathematics is more fundamental than just pure language. It also may be the underlying structure of all reality."
+
+karbytes_0: "I agree! Perhaps everything is reducible to pure quantity at a sufficiently low scope of resolution."
+
+karbytes_1: "I agree. I believe that it might be possible to for infinitely many unique levels of resolution scope dimension configurations to simultaneously or asynchronously exist."
+
+karbytes_0: "If you are correct, then the axis of the graph depicting what I meant by 'scope of resolution' is infinite in at least one of the two directions."
+
+karbytes_1: "If the dimenion is a ray instead of a line, do you mean to imply that there is some 'scope of resolution' level that cannot be added to xor substracted from (because such a number is the end-point of the range of values containing infinitely many (unique) 'scope of resolution' levels)?"
+
+karbytes_1: "Yes. I imagine that point is either pure nothingness (necessarily asynchronously from all other 'scope of resolution' levels) or else that limit value is 100% in terms of percentages (i.e. a value representing all potential 'scope of resolution' levels). It should be noted that, while all potential (i.e. noumenal) qualia encompass all physical (i.e. phenomenal) qualia, not every physical qualia (both simultaneously occuring and cumulitaviely across all rendered timelines) necessarily have uniquely corresponding noumenal counterparts (which means the following): set_of_unique_noumena.count >= set_of_unique_phenomena.count."
+
+karbytes_0: "What is a noumenon? What is a phenomenon?"
+
+karbytes_1: "For (relatively) complete and pre-recorded answers to your quesion, visit the following web page: https://karlinaobject.wordpress.com/nature/"

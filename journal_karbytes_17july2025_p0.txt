@@ -22,7 +22,7 @@ karbytes_0: "If you are correct, then the axis of the graph depicting what I mea
 
 karbytes_1: "If the dimenion is a ray instead of a line, do you mean to imply that there is some 'scope of resolution' level that cannot be added to xor substracted from (because such a number is the end-point of the range of values containing infinitely many (unique) 'scope of resolution' levels)?"
 
-karbytes_1: "Yes. I imagine that point is either pure nothingness (necessarily asynchronously from all other 'scope of resolution' levels) or else that limit value is 100% in terms of percentages (i.e. a value representing all potential 'scope of resolution' levels). It should be noted that, while all potential (i.e. noumenal) qualia encompass all physical (i.e. phenomenal) qualia, not every physical qualia (both simultaneously occuring and cumulitaviely across all rendered timelines) necessarily have uniquely corresponding noumenal counterparts (which means the following): set_of_unique_noumena.count >= set_of_unique_phenomena.count."
+karbytes_1: “Yes. I imagine that point is either pure nothingness (necessarily asynchronously from all other ‘scope of resolution’ levels) or else that limit value is 100% in terms of percentages (i.e. a value representing all potential ‘scope of resolution’ levels). It should be noted that, while all potential (i.e. noumenal) qualia encompass all physical (i.e. phenomenal) qualia, not every physical qualia (both simultaneously occuring and cumulitaviely across all rendered timelines) necessarily has a uniquely corresponding noumenal counterpart (which means the following): set_of_unique_noumena.count >= set_of_unique_phenomena.count.”
 
 karbytes_0: "What is a noumenon? What is a phenomenon?"
 

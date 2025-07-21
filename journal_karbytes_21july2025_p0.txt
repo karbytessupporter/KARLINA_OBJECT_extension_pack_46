@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
-A software runtime instance is to its source code as is a piece of music being played is to its sheet music.
+A software runtime instance is to its source code as a piece of music being played is to its sheet music.
 
 While both the program source code file and the sheet music can be printed onto paper and read offline, the software and the music require more than a piece of paper with patterns of ink on it in which to exist. That is because the software and the music are entities which necessarily change as time elapses whereas the source code file and the sheet music file are essentially just static arrangements of contrasting matter.
 

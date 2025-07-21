@@ -1,0 +1,17 @@
+/**
+ * file: journal_karbytes_21july2025_p0.txt
+ * type: plain-text
+ * date: 21_JULY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+A software runtime instance is to its source code as is a piece of music being played is to its sheet music.
+
+While both the program source code file and the sheet music can be printed onto paper and read offline, the software and the music require more than a piece of paper with patterns of ink on it in which to exist. That is because the software and the music are entities which necessarily change as time elapses whereas the source code file and the sheet music file are essentially just static arrangements of contrasting matter.
+
+Each instance of music being played and each software runtime instance essentially takes place inside the machinery of some information processing agent as relatively abstract phenomena (and both the song being played (and heard) and the software runtime instance (being rendered) has a finite and singular duration). By contrast, the source code file and the sheet music file can be used indefinitely many times to (re)produce the "same" essential software runtime instances and music playtime instances respectively.*
+
+(*) The same song can be played indefinitely many times, but each time that song is played is a unique and nonfungible arrangement of matter, energy, space, and time.
+
+(*) The same software runtime instance can be simulated indefinitely many times (using the same program source code and program inputs), but each time that source code (and program inputs) is executed is also a unique and nonfungible arrangement of matter, energy, space, and time.

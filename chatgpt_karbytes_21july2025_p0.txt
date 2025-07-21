@@ -40,11 +40,11 @@ Great! The image you just generated—featuring a C++ fibonacci() function on th
 
 If you'd like, I can help you wrap this into an HTML page with the embedded image, styled for consistency with the karbytes aesthetic. Just let me know if you want:
 
-A <pre> block for the plain-text journal body
+- A <pre> block for the plain-text journal body
 
-The image displayed above, beside, or below the text
+- The image displayed above, beside, or below the text
 
-A download link or Wayback-friendly anchor
+- A download link or Wayback-friendly anchor
 
 Would you like me to generate the HTML file for you now?
 

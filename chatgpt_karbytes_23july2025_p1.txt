@@ -67,7 +67,7 @@ karbytes:
 
 [uploaded_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_43/main/karbytes_primary_values.html]
 
-Write a block of copy-able plain-text  which is the "opposite" of the following uploaded web page source code content.
+Write a block of copy-able plain-text which is the "opposite" of the following uploaded web page source code content.
 
 ChatGPT:
 
@@ -104,7 +104,7 @@ karbytes:
 
 [uploaded_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_44/main/THE_KARBYTES_DISCLAIMER.html]
 
-Write a block of copy-able plain-text  which is the "opposite" of the following uploaded web page source code content.
+Write a block of copy-able plain-text which is the "opposite" of the following uploaded web page source code content.
 
 ChatGPT:
 
@@ -159,7 +159,7 @@ karbytes:
 
 [unlisted_web_page: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_44/main/unlisted_web_page_the_karbytes_warning_statement.html]
 
-Write a block of copy-able plain-text  which is the "opposite" of the following uploaded web page source code content.
+Write a block of copy-able plain-text which is the "opposite" of the following uploaded web page source code content.
 
 ChatGPT:
 

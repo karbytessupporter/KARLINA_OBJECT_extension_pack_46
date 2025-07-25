@@ -79,6 +79,7 @@ That might bring the file size down slightly or reduce transfer load during uplo
 If the upload keeps stalling, you can split the file into smaller chunks using a tool like:
 
 ffmpeg again (ffmpeg -i input.mp4 -t 00:00:30 -c copy part1.mp4 to cut a 30-second chunk)
+
 Then upload just the first chunk for analysis.
 
 3. Host and Share a Link

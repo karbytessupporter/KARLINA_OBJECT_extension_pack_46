@@ -1,7 +1,7 @@
 /**
  * file: chatgpt_karbytes_23july2025_p1.txt
  * type: plain-text
- * date: 24_JULY_2025
+ * date: 25_JULY_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -14,7 +14,7 @@ karbytes:
 
 [uploaded_file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_45/main/karbytes_ontology.html]
 
-Write a block of copy-able plain-text  which is the "opposite" of the following uploaded web page source code content.
+Write a block of copy-able plain-text which is the "opposite" of the following uploaded web page source code content.
 
 ChatGPT:
 

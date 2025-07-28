@@ -94,35 +94,34 @@ HTML tutorial files (each includes explanations and code/links containing “fib
 [full_url: https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_23_OCTOBER_2022/main/P5_GOLDEN_RATIO_APPROXIMATION_23_OCTOBER_2022_COPY.html]
 
 …/PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/main/P4_FIBONACCI_SEQUENCE_15_NOVEMBER_2022_COPY.html ----------------------------------| Nov‑2022 Fibonacci sequence tutorial; reiterates the Fibonacci recurrence
-[full_url: https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022/main/P6_4_FIBONACCI_SEQUENCE_COPY.html]
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/main/P4_FIBONACCI_SEQUENCE_15_NOVEMBER_2022_COPY.html]
 
 …/PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/main/P5_GOLDEN_RATIO_APPROXIMATION_15_NOVEMBER_2022_COPY.html --------------------------| Nov‑2022 golden‑ratio tutorial; uses Fibonacci terms to approximate the ratio
 [full_url: https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/main/P5_GOLDEN_RATIO_APPROXIMATION_15_NOVEMBER_2022_COPY.html]
 
-…/PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022/main/P6_4_FIBONACCI_SEQUENCE_COPY.html	Sept‑2022 Fibonacci sequence copy; contains definition fibonacci(i) := fibonacci(i‑2) + fibonacci(i‑1)
-raw.githubusercontent.com
-.
-…/PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022/main/P6_5_GOLDEN_RATIO_APPROXIMATION_COPY.html	Sept‑2022 golden‑ratio copy; explains the ratio using fibonacci(N)/fibonacci(N-1)
-raw.githubusercontent.com
-.
-…/KARLINA_OBJECT_extension_pack_23/main/FIBONACCI_NUMBERS.html	Extension‑pack‑23 tutorial; describes the Fibonacci program and links to the 2023 source and output files
-raw.githubusercontent.com
-.
-…/KARLINA_OBJECT_extension_pack_23/main/GOLDEN_RATIO_APPROXIMATION.html	Extension‑pack‑23 golden‑ratio tutorial; references dividing Fibonacci terms
-raw.githubusercontent.com
-.
-…/KARLINA_OBJECT_extension_pack_20/main/FIBONACCI_NUMBERS.html	Extension‑pack‑20 Fibonacci tutorial; same content as the 2023 pack, defines fibonacci(N)
-raw.githubusercontent.com
-.
-…/KARLINA_OBJECT_extension_pack_20/main/GOLDEN_RATIO_APPROXIMATION.html	Extension‑pack‑20 golden‑ratio tutorial; uses fibonacci(N)/fibonacci(N‑1)
-raw.githubusercontent.com
-.
-…/KARLINA_OBJECT_extension_pack_19/main/FIBONACCI_NUMBERS.html	Extension‑pack‑19 Fibonacci tutorial; defines the sequence and links to the 2023 source
-raw.githubusercontent.com
-.
-…/KARLINA_OBJECT_extension_pack_19/main/GOLDEN_RATIO_APPROXIMATION.html	Extension‑pack‑19 golden‑ratio tutorial; divides successive Fibonacci terms
-raw.githubusercontent.com
-.
+…/PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022/main/P6_4_FIBONACCI_SEQUENCE_COPY.html	Sept‑2022 --------------------------------------| Fibonacci sequence copy; contains definition fibonacci(i) := fibonacci(i‑2) + fibonacci(i‑1)
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022/main/P6_4_FIBONACCI_SEQUENCE_COPY.html]
+
+…/PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022/main/P6_5_GOLDEN_RATIO_APPROXIMATION_COPY.html ----------------------------------------| Sept‑2022 golden‑ratio copy; explains the ratio using fibonacci(N)/fibonacci(N-1)
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022/main/P6_5_GOLDEN_RATIO_APPROXIMATION_COPY.html]
+
+…/KARLINA_OBJECT_extension_pack_23/main/FIBONACCI_NUMBERS.html -----------------------------------------------------------------| Extension‑pack‑23 tutorial; describes the Fibonacci program and links to the 2023 source and output files
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/P3_FIBONACCI_NUMBERS.html]
+
+…/KARLINA_OBJECT_extension_pack_23/main/GOLDEN_RATIO_APPROXIMATION.html --------------------------------------------------------| Extension‑pack‑23 golden‑ratio tutorial; references dividing Fibonacci terms
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_23/main/GOLDEN_RATIO_APPROXIMATION.html]
+
+…/KARLINA_OBJECT_extension_pack_20/main/FIBONACCI_NUMBERS.html -----------------------------------------------------------------| Extension‑pack‑20 Fibonacci tutorial; same content as the 2023 pack, defines fibonacci(N)
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/P3_FIBONACCI_NUMBERS.html]
+
+…/KARLINA_OBJECT_extension_pack_20/main/GOLDEN_RATIO_APPROXIMATION.html --------------------------------------------------------| Extension‑pack‑20 golden‑ratio tutorial; uses fibonacci(N)/fibonacci(N‑1)
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/P4_GOLDEN_RATIO_APPROXIMATION.html]
+
+…/KARLINA_OBJECT_extension_pack_19/main/FIBONACCI_NUMBERS.html -----------------------------------------------------------------| Extension‑pack‑19 Fibonacci tutorial; defines the sequence and links to the 2023 source
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_19/main/FIBONACCI_NUMBERS.html]
+
+…/KARLINA_OBJECT_extension_pack_19/main/GOLDEN_RATIO_APPROXIMATION.html --------------------------------------------------------| Extension‑pack‑19 golden‑ratio tutorial; divides successive Fibonacci terms
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_19/main/GOLDEN_RATIO_APPROXIMATION.html]
 
 Summary
 

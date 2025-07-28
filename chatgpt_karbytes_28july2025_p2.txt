@@ -34,70 +34,71 @@ Below is a consolidated list of every unique file URL found on Karbytes For Life
 
 [preformatted_text]
 
-File URL (unique) ----------------------------------------------------------------------------| Brief description and evidence it contains “fibonacci”
+File URL (unique) --------------------------------------------------------------------------------------------------------------| Brief description and evidence it contains “fibonacci”
 
 C++ source files	
 
-…/KARLINA_OBJECT_summer_2023_starter_pack/main/fibonacci_numbers.cpp --------------------------| C++ program computing Fibonacci numbers; comments define fibonacci(0), fibonacci(1) and recurrence relation
+…/KARLINA_OBJECT_summer_2023_starter_pack/main/fibonacci_numbers.cpp -----------------------------------------------------------| C++ program computing Fibonacci numbers; comments define fibonacci(0), fibonacci(1) and recurrence relation
 [full_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_19/main/FIBONACCI_NUMBERS.html]
 
-…/karlina_object_2022_starter_pack/main/fibonacci_numbers.cpp ---------------------------------| 2022 version of the same program; includes definitions fibonacci(i) := fibonacci(i-2) + fibonacci(i-1) etc.
+…/karlina_object_2022_starter_pack/main/fibonacci_numbers.cpp ------------------------------------------------------------------| 2022 version of the same program; includes definitions fibonacci(i) := fibonacci(i-2) + fibonacci(i-1) etc.
 [full_url: https://raw.githubusercontent.com/karlinarayberinger/karlina_object_2022_starter_pack/main/fibonacci_numbers.cpp]
 
-…/karlina_object_ultimate_starter_pack/main/fibonacci_sequence.cpp ----------------------------| Program computing the N‑th Fibonacci term using recursion/iteration; code comments state fibonacci(0) := 1, fibonacci(1) := 1 and the recursion formula
+…/karlina_object_ultimate_starter_pack/main/fibonacci_sequence.cpp -------------------------------------------------------------| Program computing the N‑th Fibonacci term using recursion/iteration; code comments state fibonacci(0) := 1, fibonacci(1) := 1 and the recursion formula
 [full_url: https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_23_OCTOBER_2022/main/P4_FIBONACCI_SEQUENCE_23_OCTOBER_2022_COPY.html]
 
-…/KARLINA_OBJECT_summer_2023_starter_pack/main/golden_ratio_approximation.cpp -----------------| Golden‑ratio approximation program; it uses a function compute_Nth_fibonacci_sequence_term_using_iteration and divides successive Fibonacci terms
+…/KARLINA_OBJECT_summer_2023_starter_pack/main/golden_ratio_approximation.cpp --------------------------------------------------| Golden‑ratio approximation program; it uses a function compute_Nth_fibonacci_sequence_term_using_iteration and divides successive Fibonacci terms
 [full_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/golden_ratio_approximation.cpp]
 
-…/karlina_object_2022_starter_pack/main/golden_ratio_approximation.cpp ------------------------| Older golden‑ratio approximation program; defines fibonacci_sequence_term(int N) and uses Fibonacci terms to compute the ratio
+…/karlina_object_2022_starter_pack/main/golden_ratio_approximation.cpp ---------------------------------------------------------| Older golden‑ratio approximation program; defines fibonacci_sequence_term(int N) and uses Fibonacci terms to compute the ratio
 [full_url: https://raw.githubusercontent.com/karlinarayberinger/karlina_object_2022_starter_pack/main/golden_ratio_approximation.cpp]
 
 Plain‑text output files	
 
-…/KARLINA_OBJECT_summer_2023_starter_pack/main/fibonacci_numbers_output.txt -------------------| Log of the Fibonacci program showing calls like “fibonacci(10) = fibonacci(8) + fibonacci(9)” and computed values
+…/KARLINA_OBJECT_summer_2023_starter_pack/main/fibonacci_numbers_output.txt ----------------------------------------------------| Log of the Fibonacci program showing calls like “fibonacci(10) = fibonacci(8) + fibonacci(9)” and computed values
 [full_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/fibonacci_numbers_output.txt]
 
-…/karlina_object_2022_starter_pack/main/fibonacci_numbers_output.txt --------------------------| Output of the 2022 version; records recursion steps and values of fibonacci(N)
+…/karlina_object_2022_starter_pack/main/fibonacci_numbers_output.txt -----------------------------------------------------------| Output of the 2022 version; records recursion steps and values of fibonacci(N)
 [full_url: https://raw.githubusercontent.com/karlinarayberinger/karlina_object_2022_starter_pack/main/fibonacci_numbers_output.txt]
 
-…/karlina_object_2022_starter_pack/main/fibonacci_numbers_output_EXCEEDING_MAXIMUM_N.txt ------| Extended output listing Fibonacci numbers beyond a maximum index, with repeated fibonacci(N) entries
+…/karlina_object_2022_starter_pack/main/fibonacci_numbers_output_EXCEEDING_MAXIMUM_N.txt ---------------------------------------| Extended output listing Fibonacci numbers beyond a maximum index, with repeated fibonacci(N) entries
 [full_url: https://raw.githubusercontent.com/karlinarayberinger/karlina_object_2022_starter_pack/main/fibonacci_numbers_output_EXCEEDING_MAXIMUM_N.txt]
 
-…/karlina_object_ultimate_starter_pack/main/fibonacci_sequence_output.txt ---------------------| Output for the Fibonacci sequence program; lists expressions like fibonacci(7) = fibonacci(5) + fibonacci(6) and resulting values
+…/karlina_object_ultimate_starter_pack/main/fibonacci_sequence_output.txt ------------------------------------------------------| Output for the Fibonacci sequence program; lists expressions like fibonacci(7) = fibonacci(5) + fibonacci(6) and resulting values
 [full_url: https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_23_OCTOBER_2022/main/fibonacci_sequence_output.txt]
-.
-…/KARLINA_OBJECT_summer_2023_starter_pack/main/golden_ratio_approximation_output.txt	Shows golden‑ratio approximations expressed as fibonacci(N) / fibonacci(N-1)
-raw.githubusercontent.com
-.
-…/karlina_object_2022_starter_pack/main/golden_ratio_approximation_output.txt	Output of the 2022 golden‑ratio program; lines contain expressions like golden_ratio_approximation(N) = fibonacci(N)/fibonacci(N-1)
-raw.githubusercontent.com
-.
+
+…/KARLINA_OBJECT_summer_2023_starter_pack/main/golden_ratio_approximation_output.txt -------------------------------------------| Shows golden‑ratio approximations expressed as fibonacci(N) / fibonacci(N-1)
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/golden_ratio_approximation_output.txt]
+
+…/karlina_object_2022_starter_pack/main/golden_ratio_approximation_output.txt --------------------------------------------------| Output of the 2022 golden‑ratio program; lines contain expressions like golden_ratio_approximation(N) = fibonacci(N)/fibonacci(N-1)
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/main/golden_ratio_approximation_output.txt]
+
 HTML tutorial files (each includes explanations and code/links containing “fibonacci”)	
-…/KARLINA_OBJECT_summer_2023_starter_pack/main/P3_FIBONACCI_NUMBERS.html	Tutorial explaining Fibonacci numbers and linking to the C++ source and output files
-raw.githubusercontent.com
-.
-…/KARLINA_OBJECT_summer_2023_starter_pack/main/P4_GOLDEN_RATIO_APPROXIMATION.html	Describes computing the golden ratio by dividing adjacent Fibonacci terms
-raw.githubusercontent.com
-.
-…/KARLINA_OBJECT_12_JUNE_2023/main/P2_3_FIBONACCI_NUMBERS_12_JUNE_2023.html	12‑Jun‑2023 tutorial copy; includes definition fibonacci(0) := 1, fibonacci(i) := fibonacci(i-2)+fibonacci(i-1)
-raw.githubusercontent.com
-.
-…/KARLINA_OBJECT_12_JUNE_2023/main/P2_4_GOLDEN_RATIO_APPROXIMATION_12_JUNE_2023.html	12‑Jun‑2023 golden‑ratio tutorial; explains the ratio using Fibonacci terms
-raw.githubusercontent.com
-.
-…/PRIMARY_WEBSITE_COPY_23_OCTOBER_2022/main/P4_FIBONACCI_SEQUENCE_23_OCTOBER_2022_COPY.html	Oct‑2022 copy of the Fibonacci sequence tutorial; uses recursion formula fibonacci(i) := fibonacci(i‑2) + fibonacci(i‑1)
-raw.githubusercontent.com
-.
-…/PRIMARY_WEBSITE_COPY_23_OCTOBER_2022/main/P5_GOLDEN_RATIO_APPROXIMATION_23_OCTOBER_2022_COPY.html	Oct‑2022 golden‑ratio copy; divides fibonacci(N) by fibonacci(N‑1)
-raw.githubusercontent.com
-.
-…/PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/main/P4_FIBONACCI_SEQUENCE_15_NOVEMBER_2022_COPY.html	Nov‑2022 Fibonacci sequence tutorial; reiterates the Fibonacci recurrence
-raw.githubusercontent.com
-.
-…/PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/main/P5_GOLDEN_RATIO_APPROXIMATION_15_NOVEMBER_2022_COPY.html	Nov‑2022 golden‑ratio tutorial; uses Fibonacci terms to approximate the ratio
-raw.githubusercontent.com
-.
+
+…/KARLINA_OBJECT_summer_2023_starter_pack/main/P3_FIBONACCI_NUMBERS.html -------------------------------------------------------| Tutorial explaining Fibonacci numbers and linking to the C++ source and output files
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_19/main/FIBONACCI_NUMBERS.html]
+
+…/KARLINA_OBJECT_summer_2023_starter_pack/main/P4_GOLDEN_RATIO_APPROXIMATION.html ----------------------------------------------| Describes computing the golden ratio by dividing adjacent Fibonacci terms
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_19/main/GOLDEN_RATIO_APPROXIMATION.html]
+
+…/KARLINA_OBJECT_12_JUNE_2023/main/P2_3_FIBONACCI_NUMBERS_12_JUNE_2023.html ----------------------------------------------------| 12‑Jun‑2023 tutorial copy; includes definition fibonacci(0) := 1, fibonacci(i) := fibonacci(i-2)+fibonacci(i-1)
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_12_JUNE_2023/main/P2_3_FIBONACCI_NUMBERS_12_JUNE_2023.html]
+
+…/KARLINA_OBJECT_12_JUNE_2023/main/P2_4_GOLDEN_RATIO_APPROXIMATION_12_JUNE_2023.html -------------------------------------------| 12‑Jun‑2023 golden‑ratio tutorial; explains the ratio using Fibonacci terms
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_12_JUNE_2023/main/P2_4_GOLDEN_RATIO_APPROXIMATION_12_JUNE_2023.html]
+
+…/PRIMARY_WEBSITE_COPY_23_OCTOBER_2022/main/P4_FIBONACCI_SEQUENCE_23_OCTOBER_2022_COPY.html ------------------------------------| Oct‑2022 copy of the Fibonacci sequence tutorial; uses recursion formula fibonacci(i) := fibonacci(i‑2) + fibonacci(i‑1)
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_23_OCTOBER_2022/main/P4_FIBONACCI_SEQUENCE_23_OCTOBER_2022_COPY.html]
+
+…/PRIMARY_WEBSITE_COPY_23_OCTOBER_2022/main/P5_GOLDEN_RATIO_APPROXIMATION_23_OCTOBER_2022_COPY.html ----------------------------| Oct‑2022 golden‑ratio copy; divides fibonacci(N) by fibonacci(N‑1)
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_23_OCTOBER_2022/main/P5_GOLDEN_RATIO_APPROXIMATION_23_OCTOBER_2022_COPY.html]
+
+…/PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/main/P4_FIBONACCI_SEQUENCE_15_NOVEMBER_2022_COPY.html ----------------------------------| Nov‑2022 Fibonacci sequence tutorial; reiterates the Fibonacci recurrence
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022/main/P6_4_FIBONACCI_SEQUENCE_COPY.html]
+
+…/PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/main/P5_GOLDEN_RATIO_APPROXIMATION_15_NOVEMBER_2022_COPY.html --------------------------| Nov‑2022 golden‑ratio tutorial; uses Fibonacci terms to approximate the ratio
+[full_url: https://raw.githubusercontent.com/karlinarayberinger/PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022/main/P5_GOLDEN_RATIO_APPROXIMATION_15_NOVEMBER_2022_COPY.html]
+
 …/PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022/main/P6_4_FIBONACCI_SEQUENCE_COPY.html	Sept‑2022 Fibonacci sequence copy; contains definition fibonacci(i) := fibonacci(i‑2) + fibonacci(i‑1)
 raw.githubusercontent.com
 .

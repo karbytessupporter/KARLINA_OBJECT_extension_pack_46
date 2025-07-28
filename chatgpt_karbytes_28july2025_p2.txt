@@ -123,19 +123,14 @@ HTML tutorial files (each includes explanations and code/links containing “fib
 …/KARLINA_OBJECT_extension_pack_19/main/GOLDEN_RATIO_APPROXIMATION.html --------------------------------------------------------| Extension‑pack‑19 golden‑ratio tutorial; divides successive Fibonacci terms
 [full_url: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_19/main/GOLDEN_RATIO_APPROXIMATION.html]
 
+[end preformatted_text]
+
 Summary
 
-    Every URL above points to a file (C++ source code, plain‑text output log or HTML tutorial) that contains the word “fibonacci.”
+- Every URL above points to a file (C++ source code, plain‑text output log or HTML tutorial) that contains the word “fibonacci.”
 
-    The C++ and plain‑text files directly implement or record Fibonacci calculations; for example, the fibonacci_numbers.cpp code defines fibonacci(i) := fibonacci(i‑2) + fibonacci(i‑1)
-    raw.githubusercontent.com
-    , and its output file records calls like “fibonacci(10) = fibonacci(8) + fibonacci(9)”
-    raw.githubusercontent.com
-    .
+- The C++ and plain‑text files directly implement or record Fibonacci calculations; for example, the fibonacci_numbers.cpp code defines fibonacci(i) := fibonacci(i‑2) + fibonacci(i‑1).
 
-    The HTML tutorial files describe the Fibonacci sequence and golden ratio approximation and link to the corresponding code and output files. They all reference the Fibonacci recurrence formula, ensuring “fibonacci” appears in the file content
-    raw.githubusercontent.com
-    raw.githubusercontent.com
-    .
+- The HTML tutorial files describe the Fibonacci sequence and golden ratio approximation and link to the corresponding code and output files. They all reference the Fibonacci recurrence formula, ensuring “fibonacci” appears in the file content.
 
 These are the unique file URLs across both WordPress blogs that contain the word “fibonacci.”

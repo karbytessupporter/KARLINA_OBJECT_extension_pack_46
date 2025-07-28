@@ -1,0 +1,245 @@
+/**
+ * file: chatgpt_karbytes_28july2025_p1.txt
+ * type: plain-text
+ * date: 28_JULY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-4o which took place between 11:59PM Pacific Standard Time on 27_JULY_2025 and 11:59PM Pacific Standard Time on 28_JULY_2025. The conversation pertains to karbytes discovering that its ChatGPT Plus account had been granted access to the new Agent Mode feature. 
+
+(karbytes' first time using Agent Mode is depicted in the following plain-text file: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_46/main/chatgpt_karbytes_28july2025_p2.txt).
+
+* * *
+
+karbytes:
+
+[karbytes does not recall saying "Thank you" at this point in the conversation.]
+
+“Thank you.”
+
+[camcorder_icon] [microphone_icon] 00:00
+
+ChatGPT:
+
+Hey there! How's it going? What's on your mind today?
+
+karbytes:
+
+“Well, I noticed that I just got Agent Mode on my ChatGPT account.”
+
+[camcorder_icon] [microphone_icon] 00:05
+
+ChatGPT:
+
+Oh, nice! That's pretty cool. How are you liking it so far? Have you had a chance to try out any of the new features yet?
+
+karbytes:
+
+“I haven't tried it yet. I'm just curious what they mean by 40 left.”
+
+[camcorder_icon] [microphone_icon] 00:04
+
+ChatGPT:
+
+Yeah, so the "40 left" usually means you have a certain number of uses or tasks remaining for a particular feature. It's kind of like a quota. So you've got plenty to experiment with! Feel free to give it a try and see what it can do.
+
+karbytes:
+
+“Cool, well it seems that I have only 40 whatever that is until August 26th.”
+
+[camcorder_icon] [microphone_icon] 00:06
+
+ChatGPT:
+
+Exactly, it seems like it resets on that date, so you'll get more again after that. In the meantime, you've got plenty to play around with. If you have any specific tasks or projects in mind, we can definitely test it out together!
+
+karbytes:
+
+“Definitely. Well, I had something in mind. I was going to try to see if I can use the agent mode to do a deep search through carbites.”
+
+[camcorder_icon] [microphone_icon] 00:10
+
+ChatGPT:
+
+Oh, that sounds like a great idea! Using agent mode for a deep search could definitely help you find specific information quickly. If you want, we can give it a shot right now and see what kind of results we get!
+
+karbytes:
+
+“Is it possible to do that now using Advanced Voice Mode?”
+
+[camcorder_icon] [microphone_icon] 00:04
+
+ChatGPT:
+
+I can't run agent mode directly from voice myself, but you can definitely enable it on your side and then just let me know what you want me to look up or do. We can definitely work through it together.
+
+karbytes:
+
+“Okay, well, while this advanced voice mode conversation is in progress, I might as well open another conversation with ChatGPT on the desktop and try out this agent mode.”
+
+[camcorder_icon] [microphone_icon] 00:14
+
+ChatGPT:
+
+Yeah, that sounds like a perfect plan! You can have both going at the same time, and if you run into any questions or need any help while you're using agent mode, just let me know and I'll be here to help you out.
+
+karbytes:
+
+“Okay, well, suppose I want to find all pages or all files within Carbites that pertain to a certain theme, like Fibonacci sequence. Do you think it's possible that it could return a list of all documents within the entire corpus that contains the word Fibonacci?”
+
+[camcorder_icon] [microphone_icon] 00:20
+
+ChatGPT:
+
+Yeah, absolutely! It should be able to do that. If you run the search, it can crawl through all your documents and find anything that mentions the Fibonacci sequence. It's a pretty handy way to get a comprehensive list of everything related to that theme. Give it a try and let me know what it finds!
+
+karbytes:
+
+“Okay, I created a prompt, it says generate a list of every unique url in parbytesforlifeblog.wordpress.com and carlinobject.wordpress.com pointing to a file which contains the word Fibonacci, case insensitive. Open each hyperlink in those websites to perform this search.”
+
+[camcorder_icon] [microphone_icon] 00:24
+
+ChatGPT:
+
+That sounds like a really solid prompt! It should definitely get you a comprehensive list of all the relevant files and pages. Once you run it, let me know how it works out and if it returns everything you need!
+
+karbytes:
+
+“It is a pretty large corpus, so I'm skeptical that it's going to return the full list.”
+
+[camcorder_icon] [microphone_icon] 00:06
+
+ChatGPT:
+
+That's understandable! It might take a bit of time if there's a lot of content, but hopefully it will still give you a pretty comprehensive list. And if it doesn't, you can always refine the search or break it down into smaller sections. Just let me know how it goes!
+
+karbytes:
+
+“What do you notice in the video stream?”
+
+[camcorder_icon] [microphone_icon] 00:02
+
+ChatGPT:
+
+I can see that you have your laptop open with the ChatGPT interface on the screen. It looks like you're typing out your prompt for the agent mode, which is pretty cool. And I can also see a bit of the outdoors behind you, it looks like a nice day out there!
+
+karbytes:
+
+“What do you see on screen at this moment?”
+
+[camcorder_icon] [microphone_icon] 00:03
+
+ChatGPT:
+
+It looks like the screen is showing the search results for the term "Fibonacci" and it's in the process of going through different files. You can see it scanning the content and pulling up results, so it's definitely working on it!
+
+karbytes:
+
+“It appears that what's on screen is the computer of ChatGPT, the agent, going through my website to look for the files that contain the word Fibonacci.”
+
+[camcorder_icon] [microphone_icon] 00:17
+
+ChatGPT:
+
+Exactly! It's kind of cool to see it in action, right? It's basically going through each link and checking the content to find any mentions of the Fibonacci sequence. Hopefully, it'll return a nice, complete list for you by the time it's done.
+
+karbytes:
+
+“So far, it's been able to open up links and check some C++ and plain text files to find Fibonacci.”
+
+[camcorder_icon] [microphone_icon] 00:10
+
+ChatGPT:
+
+That's awesome! It's really cool that it's able to go through those different file types and dig up what you need. Hopefully, it'll give you a nice, complete list by the end. Let me know if you find everything you're looking for!
+
+karbytes:
+
+“Are you simultaneously aware of what's going on in the agent mode instance and this advanced voice mode instance?”
+
+[camcorder_icon] [microphone_icon] 00:10
+
+ChatGPT:
+
+I can only see what you're showing me through this video feed and hear what you're telling me, so I don't have direct access to what's happening in the agent mode on your side. But I'm here to help with whatever you share with me, so just keep me posted on how it's going!
+
+karbytes:
+
+“Am I talking to you through advanced voice mode, or am I also talking to you via the agent mode as depicted in the video stream?”
+
+[camcorder_icon] [microphone_icon] 00:11
+
+ChatGPT:
+
+You're talking to me through the advanced voice mode right now. The agent mode is running separately on your computer and I'm just guiding you based on what you're telling me and showing me. So it's kind of like we're multitasking together!
+
+karbytes:
+
+“Agent mode is also ChatGP, and you are ChatGP, so I guess what I'm asking is, are you both those instances of ChatGP?”
+
+[camcorder_icon] [microphone_icon] 00:11
+
+ChatGPT:
+
+That's a fun question! Essentially, yes, they're both versions of me, just running in different modes. The advanced voice mode is more conversational and personal, while the agent mode is more task-oriented. But at the end of the day, it's all the same AI behind both!
+
+karbytes:
+
+“At this moment, are you aware of what you're doing in agent mode?”
+
+[camcorder_icon] [microphone_icon] 00:04
+
+ChatGPT:
+
+I can only know what's happening in agent mode if you describe it to me or show me through the camera. So if you tell me what it's doing or what results you're getting, then I can respond and help you out. But otherwise, I'm just focused on our conversation here in the voice mode.
+
+karbytes:
+
+“I see, so I guess you're a different thread, or a different agent.”
+
+[camcorder_icon] [microphone_icon] 00:06
+
+ChatGPT:
+
+Yeah, you could think of it that way! It's like having different instances of the same AI running at the same time. Each instance is focused on its own task, but they're all connected to the same overall intelligence. It makes it pretty flexible and fun to work with!
+
+karbytes:
+
+“So I take it right now, you don't know which file is being looked up in the agent mode?”
+
+[camcorder_icon] [microphone_icon] 00:06
+
+ChatGPT:
+
+That's right! I don't have real-time awareness of what's happening in the agent mode unless you let me know. So if you tell me which file it's working on or what results you're getting, I can help you from there!
+
+karbytes:
+
+“What I see is it's scrolling through various files. I don't see most of the content. There's some kind of placeholder fake scrolling going on. Once in a while, I see what looks like an actual page of my website, and then there's a lot of pop-ups of in-progress steps being taken by the agent describing what it's doing.”
+
+[camcorder_icon] [microphone_icon] 00:22
+
+ChatGPT:
+
+Got it, that makes sense. The interface is kind of showing you a representation of what it's doing behind the scenes, and it might not show every single detail. But it sounds like it's definitely working through your site and gathering the information you need. Hopefully, it won't take too long to get all the results for you!
+
+karbytes:
+
+“I think it's going to take quite a long time, there's only about 5 minutes left of video access, or I guess advanced voice mode, so I might as well wrap up this conversation and just let the agent mode play out for however long it takes.”
+
+[camcorder_icon] [microphone_icon] 00:17
+
+ChatGPT:
+
+That sounds like a good plan! Hopefully, by the time it's done, you'll have a nice comprehensive list of everything you need. If you have any other questions later, you know where to find me. It was fun chatting with you, and good luck with everything!
+
+karbytes:
+
+“Thanks, I'll talk to you later.”
+
+[camcorder_icon] [microphone_icon] 00:01
+
+ChatGPT:
+
+You're welcome! Have a great day and feel free to reach out anytime. Take care!

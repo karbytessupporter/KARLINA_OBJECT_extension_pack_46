@@ -1,0 +1,23 @@
+/**
+ * file: journal_karbytes_28july2025_p0.txt
+ * type: plain-text
+ * date: 28_JULY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+27_JUlY_2025: I bought a fan for my room (i.e. the "basement" room at my mom's house) for approximately $30 and am using it now to help circulate the air in that room and to keep the temperature down (because, before, it was uncomfortably warm and smelly). I also bought two rolls of duct tape and used some of the duct tape to completely seal the heater vent on the ceiling of that room and to patch some holes in the screen door which connects that room directly to the outside world (where there are three redwood trees). I also went to the "extreme" of ceiling the door of that room which leads into the rest of the house with duct tape and put towels underneath the door. For some reason, my air purifier's indicator light keeps going to red and orange and is taking a long time to ascend to green and then blue. I think that may be because there is a lot of pollutants accumulated from when I took the device to my dad's house (which means that it might be time for me to replace the filter inside of that device). 
+
+* * *
+
+28_JULY_2025: I noticed that the air purifier's indicator light went back down to orange and red after I sealed the door rim with duct tape (due to the fact that the room has poor air circulation and cooking fumes, coffee maker fumes, and residual smoke from outside the room came in and did not leave the room (even after I tried moving the fan away from the open sliding glass door and towards the wooded door to see if I could blow the polluted air out of the room). I decided that ultimately keeping the wooden door sealed with tape was too much of an inconvenience and not enough of a benefit, so I removed the tape and, with it, a faintly noticeable amount of paint! Then I waited for several more hours to see if the air quality would improve. It did not. So I moved the fan back to the open sliding glass door in an attempt to suck air from outside into the room. That quickly improved the air quality. The indicator light has transitioned from red to orange to light green to normal green within the span of twenty minutes. I predict that, within another twenty minutes, the indicator light will turn blue.
+
+* * *
+
+I decided to leave this note relegated to a private GitHub repository instead of my public blog because the subject matter seems relatively babyish compared to what I want karbytes to focus on (and I think the way karbytes currently is seems like it "should" be going through some kind of hiatus from being updated while I work on drafts for future karbytes content in an anonymous GitHub account and save those drafts to the WayBack Machine like I said I would in recently-added karbytes content).
+
+* * *
+
+I was re-reading a recent journal entry web page I published (and that journal entry along with the rest of karbytes as that entire data collection was configured at 7AM Pacific Standard Time on 27_JULY_2025 has already been backed up to three M_DISCs (two of which are stored in "Room of Kar" (with one inside an envelope pinned to the wall and the other inside the blue zipper-locking compact disc case inside of the unplugged microwave oven in the closet) and one of which is stored in a red polyester bag inside of a plastic zip-lock sandwich bag placed on the keyboard of my dark web server laptop underneath a plastic laundry basket underneath a red camping blanket inside the closet of the room I am currently using as my living quarters)) and noticed a small typo. That made me decide to (a) fix that typo (which means those discs will no longer be up-to-date) and (b) add this note to karbytes despite me earlier saying that I would keep it relegated to the deep web. I figure this note helps to provide a little context about what is going on in my life. The air quality in this room seems lackluster because, despite my attempts to keep the indicator light of the air purifier consistently blue, the air quality remains subpar (but presumably not as bad as where there is significantly more second-hand and third-hand cigarette smoke). 
+
+This seems petty to keep bringing up (which is why I have been hesitant to include this in karbytes). Since adding the last two paragraphs to this note I noticed the indicator light waver between light green and normal green. I think it has something to do with me bringing in a hot pot of freshly made coffee approximately two hours ago. The coffee "smoke" seems to be lingering in the air.

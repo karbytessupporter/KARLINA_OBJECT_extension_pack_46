@@ -2108,7 +2108,7 @@ Updated board:
 
 ⚡ Over to you — would you like to keep your bishops active, or start pushing pawns to crack open the center?
 
-[preformatted_text]
+karbytes:
 
 I'm gonna rook your knight: d1d6
 

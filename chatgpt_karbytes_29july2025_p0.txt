@@ -6,7 +6,7 @@
  * license: PUBLIC_DOMAIN
  */
 
-The following is a plain-text transcript of a conversation between karbytes and ChatGPT-4o which took place between 11:59PM Pacific Standard Time on 29_JULY_2025 and 11:59PM Pacific Standard Time on 29_JULY_2025. The conversation pertains to karbytes' incorporating Bitcoin as a donation option on the home page of Karlina Object dot WordPress dot Com and on the home page of Karbytes For Life Blog dot WordPress dot Com. During this conversation, ChatGPT generated HTML code which generates a QR code which site visitors can simply scan with their smartphone cameras to instantly generate karbytes' Bitcoin address (which enables karbytes to receive Bitcoin payments via the Coinbase cryptocurrency exchange).
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-4o which took place between 11:59PM Pacific Standard Time on 28_JULY_2025 and 11:59PM Pacific Standard Time on 29_JULY_2025. The conversation pertains to karbytes' incorporating Bitcoin as a donation option on the home page of Karlina Object dot WordPress dot Com and on the home page of Karbytes For Life Blog dot WordPress dot Com. During this conversation, ChatGPT generated HTML code which generates a QR code which site visitors can simply scan with their smartphone cameras to instantly generate karbytes' Bitcoin address (which enables karbytes to receive Bitcoin payments via the Coinbase cryptocurrency exchange).
 
 Further Reading:
 

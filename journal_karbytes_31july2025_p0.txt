@@ -1,0 +1,24 @@
+/**
+ * file: journal_karbytes_31july2025_p0.txt
+ * type: plain-text
+ * date: 31_JULY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+To Whom It May Concern:
+
+A few months ago, I declared that I wanted to keep the zip file size of each additional karbytes "micro directory" beneath 300 megabytes total (for the sake of keeping those zip files easy to download and store). Because the current "micro directory" (which is associated with the GitHub repository named "KARLINA_OBJECT_extension_pack_46") is already approximately 205 megabytes (and because there is a lot of content in that repository I think should be sealed off from further changes which I think has historical value documenting what I feel is a personal evolution) I decided to finalize that "micro directory" today (and burn at least three M_DISCs today such that each of those discs contains exclusively the (finalized) version of karbytes named "karbytes2025_19").
+
+What I did not do was publish the next "micro directory" before finalizing "karbytes2025_19" (and the next "micro directory" will be associated with the GitHub repository named "KARLINA_OBJECT_extension_pack_47"). That is because I wanted to let "KARLINA_OBJECT_extension_pack_46" stay prominently showcased as a pinned GitHub repository in my GitHub profile (and the username to that GitHub repository is @karlinarayberinger) for at least three consecutive days (but probably no longer than two months). I expect "KARLINA_OBJECT_extension_pack_47" to be drier and more data compact than "KARLINA_OBJECT_extension_pack_46" and, also, I expect "KARLINA_OBJECT_extension_pack_47" to stay open to changes for a longer time interval (but not for a time period whose end point is after 31_DECEMBER_2025).
+
+I enjoyed developing karbytes from "karbytes2025_18" to "karbytes2025_19" and am pleased witht the many treasures this fruitful development phase yielded. I anticipate many more fruitful development phases to come. Between now and the initial public release of the next "micro directory", I will be working on drafting new karbytes content in a secret anonymous GitHub account and backing up those drafts to the WayBack Machine. I will also be taking time to enjoy the beauty of nature and studying science, technology, and the arts. 
+
+Well, time to go! My essence will always be here in the digital labyrinth referred to as karbytes (and whose main entry points are the following two web addresses):
+
+website_0: https://karlinaobject.wordpress.com/
+
+website_1: https://karbytesforlifeblog.wordpress.com/
+
+Sincerely,
+karbytes
